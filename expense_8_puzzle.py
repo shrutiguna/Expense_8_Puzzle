@@ -1,6 +1,4 @@
-#Shruti Gunasekaran -1002162170 
-#AI assignment 1
-#Coded language- python 3.10.11
+
 
 import sys
 import datetime
